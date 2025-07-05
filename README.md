@@ -1,25 +1,7 @@
 📰 Fake News Detector using Machine Learning
 A Streamlit-powered web application to classify news as Fake, Real, or Humor.
 Table of Contents
-Introduction
-
-Features
-
-Demo
-
-How to Run Locally
-
-Dataset
-
-Model Details
-
-Future Enhancements
-
-Contributing
-
-License
-
-Contact
+Introduction | Features | Demo | How to Run Locally | Dataset | Model Details | Future Enhancements | Contributing | License | Contact
 
 Introduction
 In the age of information, distinguishing between genuine news and misinformation is crucial. This project presents a simple yet effective Fake News Detector built using machine learning techniques and deployed as an interactive web application with Streamlit. It aims to help users quickly classify news content into three categories: Fake, Real, or Humor.
@@ -39,10 +21,10 @@ Demo
 Here's a quick look at the application in action, demonstrating both real and fake news detection:
 
 1. Detecting Real News:
-(Ensure Screenshot 2025-07-06 023330.png is placed inside the assets folder in your repository.)
+(Ensure real_news_screenshot.png is placed inside the assets folder in your repository.)
 
 2. Detecting Fake News:
-(Ensure Screenshot 2025-07-06 023350.png is placed inside the assets folder in your repository.)
+(Ensure fake_news_screenshot.png is placed inside the assets folder in your repository.)
 
 How to Run Locally
 To get a local copy up and running, follow these simple steps.
@@ -104,7 +86,7 @@ Advanced Models: Experiment with more sophisticated NLP models (e.g., BERT, RoBE
 
 Expanded Dataset: Integrate more diverse and larger datasets to improve generalization.
 
-Feature Engineering: Explore additional features beyond TF-IDF, such as sentiment scores or linguistic features.
+Feature Engineering: Explore additional features beyond TF-IDF, suchs as sentiment scores or linguistic features.
 
 Deployment: Deploy the application to a cloud platform (e.g., Streamlit Community Cloud, AWS, GCP) for public access.
 
@@ -118,5 +100,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 Your GitHub Profile: https://github.com/zeeshan510
-
-Email:mohdzeeshan0626@gmail.com
