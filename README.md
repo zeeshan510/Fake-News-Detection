@@ -3,7 +3,7 @@ A Streamlit-powered web application to classify news as Fake, Real, or Humor.
 Overview
 Here's a quick overview of the project structure and key sections:
 
-(Ensure table_of_contents_image.png is placed inside the assets folder in your repository. This image should be a screenshot of your desired Table of Contents layout.)
+(Ensure table_of_contents_image.png is placed inside the assets folder in your repository.)
 
 Introduction
 In the age of information, distinguishing between genuine news and misinformation is crucial. This project presents a simple yet effective Fake News Detector built using machine learning techniques and deployed as an interactive web application with Streamlit. It aims to help users quickly classify news content into three categories: Fake, Real, or Humor.
@@ -84,7 +84,7 @@ Classification: LogisticRegression is employed as the classification algorithm. 
 Class Weight Balancing: To address potential imbalances in the dataset (where one class might have significantly more samples than others), class_weight='balanced' is used. This automatically adjusts weights inversely proportional to class frequencies, helping the model learn more effectively from underrepresented classes.
 
 Future Enhancements
-Advanced Models: Experiment with more sophisticated NLP models (e.g., BERT, RoBERTa) for potentially higher accuracy.
+Advanced Models: Experiment with more sophisticated NLP models (e.g., BERT, RoBERta) for potentially higher accuracy.
 
 Expanded Dataset: Integrate more diverse and larger datasets to improve generalization.
 
@@ -102,3 +102,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 Your GitHub Profile: https://github.com/zeeshan510
+
+Email:mohdzeeshan0626@gmail.com
