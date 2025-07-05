@@ -3,7 +3,7 @@ A Streamlit-powered web application to classify news as Fake, Real, or Humor.
 Overview
 Here's a quick overview of the project structure and key sections:
 
-(Ensure table_of_contents_image.png is placed inside the assets folder in your repository.)
+![Table of Contents](assets/table_of_contents_image.png)
 
 Introduction
 In the age of information, distinguishing between genuine news and misinformation is crucial. This project presents a simple yet effective Fake News Detector built using machine learning techniques and deployed as an interactive web application with Streamlit. It aims to help users quickly classify news content into three categories: Fake, Real, or Humor.
@@ -22,11 +22,10 @@ Handles Data Imbalance: Employs class_weight='balanced' in the model to improve 
 Demo
 Here's a quick look at the application in action, demonstrating both real and fake news detection:
 
-1. Detecting Real News:
-(Ensure real_news_screenshot.png is placed inside the assets folder in your repository.)
-
-2. Detecting Fake News:
-(Ensure fake_news_screenshot.png is placed inside the assets folder in your repository.)
+### ✅ Detecting Real News:
+![Real News Detection](assets/real_news_screenshot.png)
+### ❌ Detecting Fake News:
+![Fake News Detection](assets/fake_news_screenshot.png)
 
 How to Run Locally
 To get a local copy up and running, follow these simple steps.
