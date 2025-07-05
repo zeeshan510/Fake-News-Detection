@@ -1,6 +1,5 @@
 📰 Fake News Detector using Machine Learning
 A Streamlit-powered web application to classify news as Fake, Real, or Humor.
-
 Table of Contents
 Introduction
 
@@ -122,4 +121,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 Your GitHub Profile: https://github.com/zeeshan510
 
-Email:mohdzeeshan0626@gmail.com
+Email: mohdzeeshan0626@gmail.com
