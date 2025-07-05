@@ -86,7 +86,7 @@ Advanced Models: Experiment with more sophisticated NLP models (e.g., BERT, RoBE
 
 Expanded Dataset: Integrate more diverse and larger datasets to improve generalization.
 
-Feature Engineering: Explore additional features beyond TF-IDF, suchs as sentiment scores or linguistic features.
+Feature Engineering: Explore additional features beyond TF-IDF, such as sentiment scores or linguistic features.
 
 Deployment: Deploy the application to a cloud platform (e.g., Streamlit Community Cloud, AWS, GCP) for public access.
 
