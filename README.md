@@ -39,10 +39,10 @@ Demo
 Here's a quick look at the application in action, demonstrating both real and fake news detection:
 
 1. Detecting Real News:
-(Place your screenshot of the app classifying real news as real_news_screenshot.png inside the assets folder.)
+(Ensure Screenshot 2025-07-06 023330.png is placed inside the assets folder in your repository.)
 
 2. Detecting Fake News:
-(Place your screenshot of the app classifying fake news as fake_news_screenshot.png inside the assets folder.)
+(Ensure Screenshot 2025-07-06 023350.png is placed inside the assets folder in your repository.)
 
 How to Run Locally
 To get a local copy up and running, follow these simple steps.
@@ -55,9 +55,7 @@ pip (Python package installer)
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/Fake-News-Detection.git
-
-(Replace your-username with your actual GitHub username, which is zeeshan510 in your case)
+git clone https://github.com/zeeshan510/Fake-News-Detection.git
 
 Navigate to the project directory:
 
@@ -121,4 +119,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 Your GitHub Profile: https://github.com/zeeshan510
 
-Email: mohdzeeshan0626@gmail.com
+Email:mohdzeeshan0626@gmail.com
