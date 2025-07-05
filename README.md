@@ -1,5 +1,6 @@
 📰 Fake News Detector using Machine Learning
 A Streamlit-powered web application to classify news as Fake, Real, or Humor.
+
 Table of Contents
 Introduction
 
