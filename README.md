@@ -1,7 +1,9 @@
 📰 Fake News Detector using Machine Learning
 A Streamlit-powered web application to classify news as Fake, Real, or Humor.
-Table of Contents
-Introduction | Features | Demo | How to Run Locally | Dataset | Model Details | Future Enhancements | Contributing | License | Contact
+Overview
+Here's a quick overview of the project structure and key sections:
+
+(Ensure table_of_contents_image.png is placed inside the assets folder in your repository. This image should be a screenshot of your desired Table of Contents layout.)
 
 Introduction
 In the age of information, distinguishing between genuine news and misinformation is crucial. This project presents a simple yet effective Fake News Detector built using machine learning techniques and deployed as an interactive web application with Streamlit. It aims to help users quickly classify news content into three categories: Fake, Real, or Humor.
