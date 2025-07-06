@@ -4,7 +4,7 @@ Overview
 Here's a quick overview of the project structure and key sections:
 
 ### 📂 Table of Contents
-![Table of Contents](https://raw.githubusercontent.com/zeeshan510/Fake-News-Detection/assets/table_of_contents_image.png)
+![Table of Contents](Desktop/Fake-News-Detection/assets/table_of_contents_image.png)
 
 Introduction
 In the age of information, distinguishing between genuine news and misinformation is crucial. This project presents a simple yet effective Fake News Detector built using machine learning techniques and deployed as an interactive web application with Streamlit. It aims to help users quickly classify news content into three categories: Fake, Real, or Humor.
@@ -24,10 +24,10 @@ Demo
 Here's a quick look at the application in action, demonstrating both real and fake news detection:
 
 ### ✅ Detecting Real News:
-![Real News Screenshot](https://raw.githubusercontent.com/zeeshan510/Fake-News-Detection/assets/real_news_screenshot.png)
+![Real News Detection](Desktop/Fake-News-Detection/assets/real_news_screenshot.png)
 
 ### ❌ Detecting Fake News:
-![Fake News Screenshot](https://raw.githubusercontent.com/zeeshan510/Fake-News-Detection/assets/fake_news_screenshot.png)
+![Fake News Detection](Desktop/Fake-News-Detection/assets/fake_news_screenshot.png)
 
 How to Run Locally
 To get a local copy up and running, follow these simple steps.
